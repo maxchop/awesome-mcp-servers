@@ -1875,6 +1875,7 @@ Tools for conducting research, surveys, interviews, and data collection.
 
 ### 🔒 <a name="security"></a>Security
 
+- [true-alter/alter-identity](https://github.com/true-alter/alter-identity) 📇 ☁️ - Identity infrastructure for the AI economy — 33-trait psychometric engine delivering verified human identity via MCP. Tools for trait vectors, belonging probability, attunement depth, and privacy-gated inference. Streamable-HTTP remote server at `https://mcp.truealter.com/api/v1/mcp`. Free tier: 16 tools, 10 req/min.
 - [123Ergo/unphurl-mcp](https://github.com/123Ergo/unphurl-mcp) [![unphurl-mcp MCP server](https://glama.ai/mcp/servers/123Ergo/unphurl-mcp/badges/score.svg)](https://glama.ai/mcp/servers/123Ergo/unphurl-mcp) 📇 ☁️ - URL intelligence for AI agents. 13 tools for security signals and data quality: redirect behaviour, brand impersonation detection, domain age, SSL validation, parked detection, URL structural analysis, DNS enrichment.
 - [13bm/GhidraMCP](https://github.com/13bm/GhidraMCP) 🐍 ☕ 🏠 - MCP server for integrating Ghidra with AI assistants. This plugin enables binary analysis, providing tools for function inspection, decompilation, memory exploration, and import/export analysis via the Model Context Protocol.
 - [82ch/MCP-Dandan](https://github.com/82ch/MCP-Dandan) 🐍 📇 🏠 🍎 🪟 🐧 - Real-time security framework for MCP servers that detects and blocks malicious AI agent behavior by analyzing tool call patterns and intent across multiple threat detection engines.
